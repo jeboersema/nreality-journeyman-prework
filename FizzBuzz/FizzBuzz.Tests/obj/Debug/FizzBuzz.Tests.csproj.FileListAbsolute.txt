@@ -1,0 +1,9 @@
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Lib.dll
+C:\Jaco Boersema\Development\Journeyman Program\nreality-journeyman-prework\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Lib.pdb
