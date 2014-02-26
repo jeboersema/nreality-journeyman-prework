@@ -1,3 +1,7 @@
 FizzBuzz.Test/obj/
 FizzBuzz/FizzBuzzLib/obj/
 FizzBuzz/bin/
+FizzBuzz/obj/
+DataStructures/DataStructures.Tests/obj/
+DataStructures/DataStructures/obj/
+DataStructures/DataStructures.Tests/bin/
